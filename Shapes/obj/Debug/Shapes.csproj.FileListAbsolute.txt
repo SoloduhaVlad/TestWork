@@ -1,0 +1,15 @@
+c:\users\soloduha_vlad\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\soloduha_vlad\Documents\Visual Studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\soloduha_vlad\Documents\Visual Studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\soloduha_vlad\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\soloduha_vlad\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\soloduha_vlad\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Source\Repos\TestWork\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Acer\Source\Repos\TestWork\Shapes\obj\Debug\Shapes.exe
+C:\Users\Acer\Source\Repos\TestWork\Shapes\obj\Debug\Shapes.pdb
