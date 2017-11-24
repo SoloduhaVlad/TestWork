@@ -13,3 +13,6 @@ C:\Users\Acer\Documents\Visual Studio 2015\Projects\Shapes\Shapes\obj\Debug\Shap
 C:\Users\Acer\Source\Repos\TestWork\Shapes\bin\Debug\Shapes.exe.config
 C:\Users\Acer\Source\Repos\TestWork\Shapes\obj\Debug\Shapes.exe
 C:\Users\Acer\Source\Repos\TestWork\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Acer\Source\Repos\TestWork\Shapes\bin\Debug\Shapes.exe
+C:\Users\Acer\Source\Repos\TestWork\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Acer\Source\Repos\TestWork\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
